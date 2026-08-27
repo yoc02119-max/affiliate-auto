@@ -1,4 +1,4 @@
-name:Rakuten Affiliate Auto Test
+name: Rakuten Affiliate Auto Test
 
 on:
   workflow_dispatch:
