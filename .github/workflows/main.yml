@@ -1,6 +1,6 @@
 name: Rakuten Affiliate Auto Test
 
-on:
+"on":
   workflow_dispatch:
 
 jobs:
